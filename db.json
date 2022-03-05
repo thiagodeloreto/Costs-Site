@@ -1,0 +1,57 @@
+{
+  "projects": [
+    {
+      "name": "Novo Site",
+      "budget": "4000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 2000,
+      "services": [
+        {
+          "name": "Imagens",
+          "description": "Custos extras",
+          "cost": "1000",
+          "id": "5068612c-ee24-49f1-b97a-b260c714e741"
+        },
+        {
+          "name": "Desenvolvimento de Software",
+          "cost": "1000",
+          "description": "Criar nova funcionalidade para o projeto.",
+          "id": "db5adbad-0b6f-40d0-ba61-521dec822941"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "Desenvolvimento de Software",
+      "budget": "7000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infraestrutura"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+.container{
+    margin: 2em 4em;
+    padding: 2em 2em;
+    display: flex;
+    flex-direction: row;
+}
+
+.section h1 {
+    margin-bottom: 1em;
+    font-size: 1.5em;
+}
+
+.section span {
+    color: #FFBB33;
+    padding: .3em .3em;
+    background-color: #222;
+    border-radius: 5px;
+}
+
+.section p {
+    padding-right: 3em;
+    padding-bottom: 1em;
+    text-align: justify;
+}
+
+.section svg {
+    margin-right: .5em;
+    font-size: 1.4em;
+}
+
+.section_image img{
+    width: 470px;
+    height: 350px;
+    display: flex;
+    border-radius: 5%;
+}
+
+
